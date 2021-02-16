@@ -1,5 +1,5 @@
 # Sujin Roh
-> ##### Designer && Developer
+> ##### Design/Develop
 >
 > 
 >
