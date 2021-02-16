@@ -2,7 +2,7 @@
 
 
 
-#### Designer $$ Developer
+#### Designer && Developer
 
 
 
