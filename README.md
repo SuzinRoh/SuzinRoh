@@ -2,7 +2,7 @@
 
 
 
-##### Designer $$ Developer
+#### Designer $$ Developer
 
 
 
@@ -34,4 +34,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
-------------
+
