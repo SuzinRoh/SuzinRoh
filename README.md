@@ -32,7 +32,7 @@
 
 
 ---
-#### As a Devloper
+### As a Devloper
 >   <ul>
 >      <h4>Front-end</h4>
 >      <li><p float="center">
@@ -44,7 +44,7 @@
 >      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></p>
 >    </ul>
  
-#### As a Designer
+### As a Designer
 >   <ul>
 >   <li><p float="center">
 >   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white" />
