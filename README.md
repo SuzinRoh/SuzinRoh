@@ -46,5 +46,3 @@
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 </p>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Adobe.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/Adobe.svg" />
