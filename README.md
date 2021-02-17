@@ -32,7 +32,7 @@
 
 
 ---
-### As a Devloper
+### As a Developer
 >   <ul>
 >      <h4>Front-end</h4>
 >      <li><p float="center">
