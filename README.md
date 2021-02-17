@@ -38,6 +38,7 @@
 >      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 >      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></p>
 >      <li> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+>      <li> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/Java.svg" />
 >    </ul>
  
 ##### As a Designer
