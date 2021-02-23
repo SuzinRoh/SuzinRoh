@@ -4,13 +4,13 @@
 >🇺🇸
 >✋Hi, I'm sujin Roh <br>
 >I majored in visual design.<br>
->But now I'm not just a web designer.<br>
+>But now I'm not just a　designer.<br>
 >I'm studying as a full-stack developer.<br>
 >
 >🇯🇵
 >✋こんにちは、私はノ·スジンと申します。<br>
 >私はデザインを資格デザイン専攻しました。<br>
->でも今はただのウェブデザイナーではありません<br>
+>でも今はただのデザイナーではありません<br>
 >私はフルスタックの開発者として勉強しています。<br>
 >
 >
