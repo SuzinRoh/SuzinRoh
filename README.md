@@ -65,4 +65,4 @@
 >   
 >
 -------
-<!--[![HitCount](http://hits.dwyl.com/SuzinRoh/SuzinRoh.svg)](http://hits.dwyl.com/SuzinRoh/SuzinRoh)-->
+[![HitCount](http://hits.dwyl.com/SuzinRoh/SuzinRoh.svg)](http://hits.dwyl.com/SuzinRoh/SuzinRoh)
