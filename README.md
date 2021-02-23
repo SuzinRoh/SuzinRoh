@@ -1,7 +1,9 @@
 # Sujin Roh
 > ##### Design/Develop
->
-> 
+>Hi, I'm sujin Roh 
+>I majored in design.
+>But now I'm not just a web designer.
+>I'm studying as a full-stack developer.
 >
 >
 >
