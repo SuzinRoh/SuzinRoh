@@ -4,7 +4,7 @@
 >🇺🇸
 >✋Hi, I'm sujin Roh <br>
 >I majored in visual design.<br>
->But now I'm not just a　designer.<br>
+>But now I'm not just designer.<br>
 >I'm studying as a full-stack developer.<br>
 >
 >🇯🇵
