@@ -1,12 +1,13 @@
 # Sujin Roh
 > ##### Design/Develop
 > 
+>🇺🇸
 >✋Hi, I'm sujin Roh <br>
 >I majored in design.<br>
 >But now I'm not just a web designer.<br>
 >I'm studying as a full-stack developer.<br>
 >
->
+>🇯🇵
 >✋こんにちは、私はノ·スジンと申します。<br>
 >私はデザインを専攻しました。<br>
 >でも今はただのウェブデザイナーではありません<br>
