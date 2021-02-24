@@ -65,4 +65,3 @@
 >   
 >
 -------
-[![HitCount](http://hits.dwyl.com/SuzinRoh)](http://hits.dwyl.com/SuzinRoh/SuzinRoh)
