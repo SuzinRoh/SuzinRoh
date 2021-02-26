@@ -61,6 +61,7 @@
 >      <h4>Back-end</h4>
 >      <li> <p><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 >      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></p>
+>      <li>    <a href="https://github.com/SuzinRoh/jslproject">back-end study example</a>
 >    </ul>
 >    
  ---
@@ -71,7 +72,6 @@
 >   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flatsquare&logo=AdobeIllustrator&logoColor=white"/>
 >   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white" />
 >   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white" /></p>
->   <li>    <a href="https://github.com/SuzinRoh/jslproject">back-end study example</a>
 >   </ul>
 >   
 >
