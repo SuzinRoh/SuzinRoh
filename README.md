@@ -31,6 +31,12 @@
 >
 >
 >
+---
+### velog
+> 
+> [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@suuznnn_)](https://velog.io/@suuznnn_)
+> 
+>
 
 
 
