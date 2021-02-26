@@ -71,8 +71,9 @@
 >   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flatsquare&logo=AdobeIllustrator&logoColor=white"/>
 >   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white" />
 >   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white" /></p>
+>   <li>    <a href="https://github.com/SuzinRoh/jslproject">back-end study example</a>
 >   </ul>
->   +    <a href="https://github.com/SuzinRoh/jslproject">back-end study example</a>
+>   
 >
 -------
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuzinRoh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
