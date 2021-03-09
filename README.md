@@ -25,7 +25,7 @@
 ---
 ### Portfolio
 >
-> <a href="https://suzin.dev/index.html/index.html"> page here</a> <br>
+> <a href="https://suzin.dev/index.html"> page here</a> <br>
 > <a href="https://github.com/SuzinRoh/Page"> code here </a> <br>
 > ウェブページを制作中です。<br>
 > 
