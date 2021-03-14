@@ -40,7 +40,7 @@
 > 
 ### heroku  . . . .ing
 > 
-> <a href="https://suzinlog.herokuapp.com/"> suzinlog</a>
+> <a href="https://one-hand.herokuapp.com/"> web site </a>
 >
 >
 
