@@ -1,18 +1,7 @@
 # Sujin Roh
-> ##### Design/Develop
+> ##### Back-end Developer
 > 
->🇺🇸
 >✋Hi, I'm sujin Roh <br>
->I majored in visual design.<br>
->But now I'm not just designer.<br>
->I'm studying as a full-stack developer.<br>
->
->🇯🇵
->✋こんにちは、私はノ·スジンと申します。<br>
->私資格デザイン専攻しました。<br>
->でも今はただのデザイナーではありません<br>
->私はフルスタックの開発者として勉強しています。<br>
->
 >
 >
 >
@@ -24,20 +13,18 @@
 
 ---
 ### Portfolio
->
-> <a href="https://suzin.dev/index.html"> page here</a> <br>
-> <a href="https://github.com/SuzinRoh/Page"> code here </a> <br>
-> ウェブページを制作中です。<br>
-> 
+<!--
+ <a href="https://suzin.dev/index.html"> page here</a> <br>
+-->
 >
 >
 >
----
+---<!--
 ### velog
 > 
 > [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@suuznnn_)](https://velog.io/@suuznnn_)  
 >  ^click
-> 
+> -->
 ### heroku  . . . .ing
 > 
 > spring legacy project
