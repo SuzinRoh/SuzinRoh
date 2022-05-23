@@ -14,4 +14,4 @@
 
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuzinRoh)](https://github.com/SuzinRoh/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuzinRoh)](https://github.com/SuzinRoh/github-readme-stats)-->
