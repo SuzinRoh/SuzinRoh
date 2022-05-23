@@ -20,10 +20,9 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 </div>
 
-  
-<div align=right>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzinRoh&layout=compact)](https://github.com/suzinRoh/github-readme-stats)
-<div>
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
