@@ -9,3 +9,9 @@
 >
 # 🗣Language
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzinRoh&layout=compact)](https://github.com/suzinRoh/github-readme-stats)
+
+
+
+#
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuzinRoh)](https://github.com/SuzinRoh/github-readme-stats)
