@@ -19,16 +19,11 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 </div>
->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzinRoh&layout=compact)](https://github.com/suzinRoh/github-readme-stats)  
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuzinRoh)](https://github.com/SuzinRoh/github-readme-stats)-->
 
-#
->  
->  
->
->
+  
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzinRoh&layout=compact)](https://github.com/suzinRoh/github-readme-stats)
 
 
 
