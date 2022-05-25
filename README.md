@@ -1,7 +1,7 @@
 # Sujin Roh
 <div align=center>
  
-  <a href=" https://suzinroh.github.io/Page/">
+  <a href="https://suzinroh.github.io/Page/">
    <img src="https://img.shields.io/badge/web-0A0A0A?style=flat&logo=dev.to&logoColor=white"> 
   </a>
 </div>
