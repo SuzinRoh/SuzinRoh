@@ -2,7 +2,10 @@
 <div align=center>
  
   <a href="https://suzinroh.github.io/Page/">
-   <img src="https://img.shields.io/badge/web-0A0A0A?style=flat&logo=dev.to&logoColor=white"> 
+   <img src="https://img.shields.io/badge/web-0A0A0A?style=flat&logo=dev.to&logoColor=white"> ...수정중
+  </a>
+ <a href="https://suzinroh.github.io/Page/](https://codingnobenkyou.tistory.com/">
+   <img src="https://img.shields.io/badge/TISTORY-FF5A00?style=flat&logo=dev.to&logoColor=white"> ...수정중
   </a>
 </div>
 <div align=center>
