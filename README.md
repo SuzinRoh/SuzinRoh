@@ -2,11 +2,11 @@
 <div align=center>
  
   <a href="https://suzinroh.github.io/Page/">
-   <img src="https://img.shields.io/badge/web-0A0A0A?style=flat&logo=dev.to&logoColor=white"> ...수정중
-  </a>
+   <img src="https://img.shields.io/badge/web-0A0A0A?style=flat&logo=dev.to&logoColor=white"> 
+  </a>...수정중
  <a href="https://suzinroh.github.io/Page/](https://codingnobenkyou.tistory.com/">
-   <img src="https://img.shields.io/badge/TISTORY-FF5A00?style=flat&logo=dev.to&logoColor=white"> ...수정중
-  </a>
+   <img src="https://img.shields.io/badge/TISTORY-FF5A00?style=flat&logo=dev.to&logoColor=white"> 
+  </a>...수정중
 </div>
 <div align=center>
  
