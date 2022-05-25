@@ -1,6 +1,6 @@
 # Sujin Roh
 <div align=center>
- 수정중
+ 
   <a href=" https://suzinroh.github.io/Page/">
    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"> 
   <a>
@@ -28,4 +28,8 @@
   
   
 </div>
+   
+   <div align=center>
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuzinRoh%2Fhit-counter&count_bg=%23C59DD0&title_bg=%23393939&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+   </div>
 
