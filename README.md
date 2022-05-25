@@ -1,11 +1,14 @@
 # Sujin Roh
 <div align=center>
-
+ 수정중
+  <a href=" https://suzinroh.github.io/Page/">
+   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"> 
+  <a>
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white?link=http://left&link=[http://right](https://suzinroh.github.io/Page/)"> 
-  수정중...
-  https://suzinroh.github.io/Page/
+ 
+  
+ 
 
 <div align=center>
    <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
