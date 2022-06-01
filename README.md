@@ -2,7 +2,7 @@
 <div align=center>
  
   <a href="https://suzinpage.herokuapp.com/">
-   <img src="https://img.shields.io/badge/springBasedPage-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> 
+   <img src="https://img.shields.io/badge/webpage v2022-FF6550?style=flat&logo=dev.to&logoColor=white"> 
   </a>...2022년 버전 사이트 수정중
  <br>
  <a href="https://github.com/SuzinRoh/pageReversion"> repository here </a>
