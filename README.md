@@ -34,7 +34,7 @@
 </div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suzinRoh)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzinRoh&layout=compact)](https://github.com/suzinRoh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzinRoh&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
   
