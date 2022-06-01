@@ -32,7 +32,9 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
 </div>
-<br>
+
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suzinRoh)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzinRoh&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
