@@ -6,7 +6,7 @@
 # 📍web
 
 
-  <a href="https://suzinpage.herokuapp.com/">
++  <a href="https://suzinpage.herokuapp.com/">
    <img src="https://img.shields.io/badge/webpage v2022-FF6550?style=flat&logo=dev.to&logoColor=white"> 
   </a>
  
@@ -16,19 +16,17 @@
  <br>
 
  <br>
-  <a href="https://suzinroh.github.io/Page/">
++  <a href="https://suzinroh.github.io/Page/">
    <img src="https://img.shields.io/badge/webpage v2021-0A0A0A?style=flat&logo=dev.to&logoColor=white"> 
   </a>
-   <ol align=left>
-   <ul>...2021년 버전 사이트</ul>
-  </ol>
-  <br>
- <a href="https://codingnobenkyou.tistory.com/">
++ ...2021년 버전 사이트
+<br>
++ <a href="https://codingnobenkyou.tistory.com/">
    <img src="https://img.shields.io/badge/TISTORY-FF5A00?style=flat"> 
   </a>
-  <ol align=left>
-   <ul>공부 메모</ul>
-  </ol>
+
++ 공부 메모
+
 
   
 # ⌨️skills
