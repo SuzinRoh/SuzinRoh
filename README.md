@@ -3,7 +3,7 @@
 >  Hello,
 >
 
-# 📍web
+# 📍
 >
 >
 > <a href="https://suzinpage.herokuapp.com/"><img src="https://img.shields.io/badge/webpage v2022-FF6550?style=flat&logo=dev.to&logoColor=white"></a>
