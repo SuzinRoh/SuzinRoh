@@ -15,16 +15,15 @@
   </ol>
  <br>
 
-
-  <div>
  <br>
   <a href="https://suzinroh.github.io/Page/">
    <img src="https://img.shields.io/badge/webpage v2021-0A0A0A?style=flat&logo=dev.to&logoColor=white"> 
   </a>
+  <br>
  <a href="https://codingnobenkyou.tistory.com/">
    <img src="https://img.shields.io/badge/TISTORY-FF5A00?style=flat"> 
   </a>
-</div>
+
   
 # ⌨️skills
 <div align=center>
