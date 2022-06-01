@@ -1,7 +1,10 @@
 # Sujin Roh
+<div>
+ Hello,
+</div>
 <div align=left>
  <div>
-  <h1>📍web</h1>
+  <h2>📍web</h2>
   <a href="https://suzinpage.herokuapp.com/">
    <img src="https://img.shields.io/badge/webpage v2022-FF6550?style=flat&logo=dev.to&logoColor=white"> 
   </a>
