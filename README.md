@@ -1,9 +1,7 @@
-# 📢SUJIN ROH
->
->  Hello,
->
+# Hi there, I'm SUJIN ROH
 
-# 📍
+
+# I'm a web developer
 >
 >
 > <a href="https://suzinpage.herokuapp.com/"><img src="https://img.shields.io/badge/webpage v2022-FF6550?style=flat&logo=dev.to&logoColor=white"></a>
