@@ -6,8 +6,8 @@
    <img src="https://img.shields.io/badge/webpage v2022-FF6550?style=flat&logo=dev.to&logoColor=white"> 
   </a>
    <ol align=left>
-   <li>...2022년 버전 사이트 수정중</li>
-   <li> <a href="https://github.com/SuzinRoh/pageReversion"> repository here </a></li>
+   <ul>...2022년 버전 사이트 수정중</ul>
+   <ul> <a href="https://github.com/SuzinRoh/pageReversion"> repository here </a></ul>
   </ol>
  <br>
 
