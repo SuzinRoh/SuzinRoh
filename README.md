@@ -27,7 +27,7 @@
    <img src="https://img.shields.io/badge/TISTORY-FF5A00?style=flat"> 
   </a>
   <ol align=left>
-   <ul>공부 일지</ul>
+   <ul>공부 메모</ul>
   </ol>
 
   
