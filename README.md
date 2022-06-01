@@ -25,11 +25,9 @@
    <img src="https://img.shields.io/badge/TISTORY-FF5A00?style=flat"> 
   </a>
 </div>
-<div align=center>
- 
   
- 
-# skills
+# ⌨️skills
+<div align=center>
 <div align=center>
    <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
