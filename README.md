@@ -1,12 +1,12 @@
 # Sujin Roh
-<div align=center>
+<div align=left>
  <div>
-  <h1>📍</h1>
+  <h1>📍web</h1>
   <a href="https://suzinpage.herokuapp.com/">
    <img src="https://img.shields.io/badge/webpage v2022-FF6550?style=flat&logo=dev.to&logoColor=white"> 
   </a>
    <ol align=left>
-    <ul>📝</ul>
+    <ul>📝 </ul>
    <ul>...2022년 버전 사이트 수정중</ul>
    <ul> <a href="https://github.com/SuzinRoh/pageReversion"> repository here </a></ul>
   </ol>
