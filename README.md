@@ -3,7 +3,9 @@
  
   <a href="https://suzinpage.herokuapp.com/">
    <img src="https://img.shields.io/badge/springBasedPage-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> 
-  </a>...수정중
+  </a>...2022년 버전 사이트 수정중
+ 
+ <br>
   <a href="https://suzinroh.github.io/Page/">
    <img src="https://img.shields.io/badge/webpage v2021-0A0A0A?style=flat&logo=dev.to&logoColor=white"> 
   </a>
