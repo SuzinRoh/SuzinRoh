@@ -1,12 +1,18 @@
 # Sujin Roh
 <div align=center>
- 
+ <div>
+  <li>
   <a href="https://suzinpage.herokuapp.com/">
    <img src="https://img.shields.io/badge/webpage v2022-FF6550?style=flat&logo=dev.to&logoColor=white"> 
-  </a>...2022년 버전 사이트 수정중
+  </a>
+   <ol>
+   <li>...2022년 버전 사이트 수정중</li>
+   <li> <a href="https://github.com/SuzinRoh/pageReversion"> repository here </a></li>
+  </ol>
  <br>
- <a href="https://github.com/SuzinRoh/pageReversion"> repository here </a>
- 
+
+
+  <div>
  <br>
   <a href="https://suzinroh.github.io/Page/">
    <img src="https://img.shields.io/badge/webpage v2021-0A0A0A?style=flat&logo=dev.to&logoColor=white"> 
