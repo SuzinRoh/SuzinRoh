@@ -34,10 +34,10 @@
 </div>
 
 
-
+<div align=left>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suzinRoh)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzinRoh&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
   
 
