@@ -20,7 +20,7 @@
  + 📝 study note
 
  + three js study note / notion url 
- <a href="https://www.notion.so/Three-Js-e59715aec8f946a39701610f258db9e5"></a>
+ <a href="https://www.notion.so/Three-Js-e59715aec8f946a39701610f258db9e5"> here ! </a>
  
 --- 
 ### Languages and Tools
