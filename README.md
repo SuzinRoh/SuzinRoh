@@ -1,6 +1,6 @@
 # sujin roh
 
-
+[notion](https://marred-ellipse-3a1.notion.site/sujin-Roh-a19eaf3507df49e3b1631991095be358?pvs=4)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suuz8201)](https://solved.ac/suuz8201/)
 
